@@ -1,4 +1,6 @@
-Personal digital resume website prepared using bootstrap and pingendo. <br/>
+<strong>Personal digital resume website prepared using bootstrap and pingendo. <br/></strong>
+I will be updtaing the website soon.<br/>
+
 
 ## Copyright and License for bootstrap template<br/>
 
